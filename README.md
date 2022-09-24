@@ -1,2 +1,1 @@
-# Sam-c-programming-test
-Repo for my c class
+My personal c practice
